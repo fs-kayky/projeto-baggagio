@@ -1,3 +1,5 @@
+let palavra = 'Hello World!'
+
 // Funcao responsavel 
 const inverterString = (string) => { // <--- Palavra e passada pra funcao por parametro
     let reverso = '' // Variavel definida para armazenar a string invertida
@@ -8,8 +10,6 @@ const inverterString = (string) => { // <--- Palavra e passada pra funcao por pa
 
     return reverso; // <--- retorna a string invertida
 }
-
-let palavra = 'Hello World!'
 
 invertido = inverterString(palavra);
 

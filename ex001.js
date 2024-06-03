@@ -12,4 +12,4 @@ const definaMaior = (arr) => {
     return maior // <-- retorna o menor valor do array
 }
 
-console.log(definaMaior(entrada))
+console.log(`O maior numero da entrada e: `, definaMaior(entrada))
