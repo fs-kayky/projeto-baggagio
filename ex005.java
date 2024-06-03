@@ -40,3 +40,5 @@ public class Main /VerificarConjuntos/ {
         }
     }
 }
+
+// Por: Camila de Oliveira

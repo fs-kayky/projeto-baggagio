@@ -7,3 +7,5 @@ for numero in lista:
     menor_numero = numero
  
 print(menor_numero)
+
+# Por: Yasmin Rodrigues

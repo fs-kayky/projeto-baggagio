@@ -13,3 +13,5 @@ const definaMaior = (arr) => {
 }
 
 console.log(`O maior numero da entrada e: `, definaMaior(entrada))
+
+// Por: Kayky Rodrigues da Silva

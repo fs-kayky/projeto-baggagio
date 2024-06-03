@@ -14,3 +14,5 @@ const inverterString = (string) => { // <--- Palavra e passada pra funcao por pa
 invertido = inverterString(palavra);
 
 console.log(`${invertido}`)
+
+// Por: Kayky Rodrigues da Silva
