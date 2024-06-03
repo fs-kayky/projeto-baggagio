@@ -2,14 +2,14 @@
 const inverterString = (string) => { // <--- Palavra e passada pra funcao por parametro
     let reverso = '' // Variavel definida para armazenar a string invertida
 
-    for(let i=0; i<string.length; i++){  // <--- itera entre os elementos 
+    for(let i=0; i<string.length; i++){  // <--- itera entre os elementos da string, invertendo a ordem deles
         reverso = string[i] + reverso
     }
 
-    return reverso;
+    return reverso; // <--- retorna a string invertida
 }
 
-let palavra = 'Matrix'
+let palavra = 'Hello World!'
 
 invertido = inverterString(palavra);
 
