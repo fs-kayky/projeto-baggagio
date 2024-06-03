@@ -1,4 +1,4 @@
-let entrada = [5,2,9,1,6,4]
+let entrada = [5,2,9,1,6,4, 20]
 
 // Funcao resposavel por ler um array de inteiros e definir qual o maior entre eles
 const definaMaior = (arr) => {
